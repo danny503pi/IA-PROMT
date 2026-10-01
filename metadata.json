@@ -1,0 +1,6 @@
+{
+  "name": "Náhuat Vivo",
+  "description": "Diccionario náhuat-pipil interactivo para jóvenes con pronunciación fonética, palabra del día, quiz aleatorio de 5 preguntas y ejemplos con IA validados por el estudiante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
